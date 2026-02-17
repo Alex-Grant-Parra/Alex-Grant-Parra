@@ -32,13 +32,20 @@ Tech involved:
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Python
-- C++ (ESP32)
-- SQL
-- JavaScript
-- HTML
-- 
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Hardware & Platforms
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 🌌 Astronomy & Imaging
@@ -63,6 +70,7 @@ I’m especially interested in:
 - Scientific software engineering
 
 Looking to pursue a career combining:
+
 > Physics + Programming + Real-world instrumentation
 
 ---
@@ -74,6 +82,14 @@ Looking to pursue a career combining:
 - Add automated image stacking pipeline
 - Refactor telescope control into modular architecture
 - Contribute to open-source scientific tools
+
+---
+
+## 📊 GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 ---
 
