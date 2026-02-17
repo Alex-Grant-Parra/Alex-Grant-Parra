@@ -87,9 +87,10 @@ Looking to pursue a career combining:
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Grant-Parra&show_icons=true&theme=dark)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-grant-parra&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Grant-Parra&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-grant-parra&layout=compact&theme=dark)
+
 
 ---
 
