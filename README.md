@@ -101,7 +101,6 @@ For any inquiries, contact or collaboration requests, contact me here:
 
 - 📧 Email: agrantparra@gmail.com
 - 🌐 Website: telescopes.dev  
-- 💬 Discord: yourusername *(informal inquiries only)*
 ---
 
 > “Build things that move. Build things that calculate. Build things that see the universe.”
