@@ -97,12 +97,11 @@ Looking to pursue a career combining:
 
 ## 📫 Contact
 
-Always happy to talk about:
-- Astronomy
-- Hardware design
-- Physics problems
-- Weird mathematical ideas
+For any inquiries, contact or collaboration requests, contact me here:
 
+- 📧 Email: agrantparra@gmail.com
+- 🌐 Website: telescopes.dev  
+- 💬 Discord: yourusername *(informal inquiries only)*
 ---
 
 > “Build things that move. Build things that calculate. Build things that see the universe.”
