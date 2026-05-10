@@ -100,7 +100,8 @@ Looking to pursue a career combining:
 For any inquiries, contact or collaboration requests, contact me here:
 
 - 📧 Email: agrantparra@gmail.com
-- 🌐 Website: telescopes.dev  
+- 🌐 Website: telescopes.dev
+- 💼 LinkedIn: linkedin.com/in/alexander-grant-parra-36bab5357
 ---
 
 > “Build things that move. Build things that calculate. Build things that see the universe.”
