@@ -1,115 +1,65 @@
 # Hi, I'm Alex 👋
 
-I build things where software meets physics.
-
-Currently working on an auto-tracking telescope system that combines:
-- 🌌 Astronomy
-- 🧠 Algorithms
-- 🔧 Embedded systems
-- 🌐 Web interfaces
-
----
-
-## 🚀 Current Project: Autonomous Telescope Control System
-
-A full-stack telescope platform that:
-
-- Motor controls via ESP32/Raspberry Pi
-- Calculates astronomical coordinates in Python
-- Points to objects from real star catalogues
-- Captures images remotely
-- Runs through a Flask web interface
-
-Tech involved:
-- Python (Flask, SQLAlchemy)
-- Raspberry Pi (5/02)
-- ESP32 firmware
-- AJAX-based control panels
-- Coordinate transformations
-- Large scale databases
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+I build things where software meets hardware and physics. Based in the UK, bilingual in English and Spanish.
 
 
-### Platforms
+## 🔭 Main project: [Seleno](https://seleno.org)
+A distributed telescope control system, built end to end:
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* Python and Flask backend with a web control panel
+* ESP32 and Raspberry Pi firmware driving the motors
+* Coordinate transformations and pointing from real star catalogues
+* Remote image capture
 
-### Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+## 🛠 Other things I've built
 
-### DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
----
+* **Discord music bot:** Python, with Spotify Jam support and slash commands
+* **Whole house voice assistant:** ESP32 microphone satellites feeding a Raspberry Pi 5
+* **Minecraft mods and server tooling**
 
-## 🌌 Astronomy & Imaging
+## Tech
 
-- Canon DSLR imaging
-- Manual + automated mount modification
-- Servo-driven equatorial tracking
+**Comfortable:**
 
-Currently exploring:
-- Auto object acquisition
-- Improved tracking accuracy
-- ML-assisted star detection
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 🧪 Interests
 
-I’m especially interested in:
-- Computational physics
-- Astro-instrumentation
-- Embedded systems
-- Scientific software engineering
 
-Looking to pursue a career combining:
 
-> Physics + Programming + Real-world instrumentation
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
 
-## 📈 Goals for 2026
 
-- Improve motor precision with better gearing ratios
-- Implement closed-loop feedback tracking
-- Add automated image stacking pipeline
-- Refactor telescope control into modular architecture
-- Contribute to open-source scientific tools
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
+**Tools and platforms:** Flask, Linux, Raspberry Pi, ESP32
+
+## 🎯 Where I'm heading
+
+Computational physics, astro instrumentation, embedded systems. I want a career that combines physics, programming and real world instrumentation.
+
+## 🗓 2027 goals
+
+* Closed loop tracking for better pointing accuracy
+* An automated image stacking pipeline
+* A more modular telescope control codebase
+* Contribute to an open source scientific tool
 
 ## 📫 Contact
 
-For any inquiries, contact or collaboration requests, contact me here:
-
-- 📧 Email: agrantparra@gmail.com
-- 🌐 Website: telescopes.dev
-- 💼 LinkedIn: linkedin.com/in/alexander-grant-parra-36bab5357
----
-
-> “Build things that move. Build things that calculate. Build things that see the universe.”
+* Email: agrantparra@gmail.com
+* LinkedIn: linkedin.com/in/alexander-grant-parra-36bab5357
