@@ -1,7 +1,6 @@
 # Hi, I'm Alex 👋
 
-I build things where software meets hardware and physics. Based in the UK, bilingual in English and Spanish.
-
+I build things where software meets hardware and physics.
 
 ## 🔭 Main project: [Seleno](https://seleno.org)
 A distributed telescope control system, built end to end:
