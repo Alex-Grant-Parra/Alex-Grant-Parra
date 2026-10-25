@@ -61,4 +61,4 @@ Computational physics, astro instrumentation, embedded systems. I want a career 
 ## 📫 Contact
 
 * Email: agrantparra@gmail.com
-* LinkedIn: linkedin.com/in/alexander-grant-parra-36bab5357
+* LinkedIn: https://www.linkedin.com/in/alex-grant-parra
